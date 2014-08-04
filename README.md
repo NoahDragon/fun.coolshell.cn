@@ -1,7 +1,7 @@
 The Hints for fun.coolshell.cn puzzles
 ================
 
-![]("/img/img.jpg")
+![](/img/img.jpg)
 
 * Note 1: Solve it by yourself, only use this hints as a reference, then you could really learn something
 * Note 2: Use program to save you from duplicate of effort
