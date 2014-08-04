@@ -34,7 +34,7 @@ Run the code [online](http://www.compileonline.com/compile_c_online.php), you wi
 
 **Level-5 variables:**
 <br/>Follow the hint, you will eventually get the answer. (Write a program, it will save your time.)
-<br/>My program is written in Python 3+, and you could view it in level_5.py file.
+<br/>My program is written in Python 3+, and you could view it in [level_5.py](level_5.py) file.
 
 **Level-6 tree:**
 <br/>Based on the in-order and pre-order sequence, rebuilt the binary tree.
@@ -49,7 +49,7 @@ Run the code [online](http://www.compileonline.com/compile_c_online.php), you wi
 <br/>Find all the 9 queen solution, and fit into the $code to get the right one.
 <br/>I borrowed the code from [Rosetta Code](http://rosettacode.org/wiki/N-queens_problem#Python) to generate the 9-Queens solutions (listed in 9_queen_solutions.txt).
 <br/>Then calculate the sha1 to find the matched solution.
-<br/>My code is in level_7.py, and the n-Queens solution generator is in n_queen.py .
+<br/>My code is in [level_7.py](level_7.py), and the n-Queens solution generator is in [n_queen.py](n_queen.py) .
 
 **Level-8 Excel Column:**
 <br/>It likes the binary number, octal number, and hexadecimal number. If you know how to transform between them, this question will be easy. (Don't forget to transform the number back to letters)
@@ -75,3 +75,5 @@ Run the code [online](http://www.compileonline.com/compile_c_online.php), you wi
 <br/>Then decrpt the message and get the reward.
 
 **Enjoy!**
+
+All level links are listed [here](all_Level_Links.md)
