@@ -18,7 +18,7 @@ main(){
 printf(&unix["\021%six\012\0"],(unix)["have"]+"fun"-0x60);
 }
 ```
-<br/>Run the code [online](http://www.compileonline.com/compile_c_online.php), you will get the answer.
+Run the code [online](http://www.compileonline.com/compile_c_online.php), you will get the answer.
 
 **Level-3 QR Code:**
 <br/>Using the QR code to get the cipher. 
@@ -65,9 +65,13 @@ printf(&unix["\021%six\012\0"],(unix)["have"]+"fun"-0x60);
 **Level-9 Fraternal Organisation:**
 <br/>It's pigpen and Freemasonry. Use Google wisely.
 <br/>Put the term pigpen and Freemasonry in google, you will get the Pigpen cipher. 
+
 ![Pigpen cipher key](../img/Pigpen_cipher_key.png)
+
 <br/>An example of Pigpen message is following:
+
 ![Pigpen Message](../img/Pigpen-message.png)
+
 <br/>Then decrpt the message and get the reward.
 
 **Enjoy!**
