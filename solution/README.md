@@ -3,7 +3,7 @@ The Solutions for fun.coolshell.cn Puzzles
 
 [Official Solutions](http://coolshell.cn/articles/11847.html)(中文)
 
-This solution is not official.
+Note: This solution is not official.
 
 **Level-0 Fuck your brain:**
 <br/>It is a block of brainfuck programming language.
