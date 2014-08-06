@@ -1,6 +1,8 @@
 The Solutions for fun.coolshell.cn Puzzles
 ================
 
+[Official Solutions](http://coolshell.cn/articles/11847.html)(中文)
+
 **Level-0 Fuck your brain:**
 <br/>It is a block of brainfuck programming language.
 <br/>Find a brainfuck interpreter online, copy and paste the code, you will get the answer.
